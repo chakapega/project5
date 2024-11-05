@@ -1,0 +1,11 @@
+@import '../../app/colors.scss';
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 128px;
+  width: 100%;
+  background-color: $mine-shaft;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
